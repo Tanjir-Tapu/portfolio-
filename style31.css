@@ -185,5 +185,16 @@ main section {
 .download-cv{
     text-align: center;
     margin-top: 50px;
-    
+
+}
+footer{
+    display: flex;
+    background-color: #FFF8F3;
+    margin-top: 50px;
+    padding: 130px 230px;
+}
+.section-des{
+    color: #474747;
+font-size: 16px;
+font-weight: 400;
 }
