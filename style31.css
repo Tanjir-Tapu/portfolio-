@@ -209,12 +209,22 @@ footer {
 
 .social-link {
     padding-top: 30px;
-
+   
+}
+.ii{
+    margin-right: 25px;
 }
 
-.hh{
+.hh {
     display: block;
     margin-top: 25px;
     padding: 18px 35px;
     color: #757575;
+    border-radius: 5px;
+    background: #FFF;
+    width: 100%;
+}
+
+#toto{
+    margin-top: 25px;
 }
